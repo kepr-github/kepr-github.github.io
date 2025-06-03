@@ -11,8 +11,8 @@
 - title: Education
   type: time_table
   contents:
-    - title: MSc in Agricultural and Life Sciences  
-      institution: The University of Tokyo, Graduate School of Agricultural and Life Sciences  
+    - title: MSc in Agricultural and Life Sciences
+      institution: The University of Tokyo, Graduate School of Agricultural and Life Sciences
       year: 2024 - 2026 (expected)
       description:
         - Major in Biological and Environmental Engineering.
@@ -22,9 +22,9 @@
             - Estimation of leaf area using 3D point cloud analysis.
             - Simulation of light distribution using ray tracing techniques.
 
-    - title: BSc in Agricultural and Life Sciences  
-      institution: The University of Tokyo, Faculty of Agriculture  
-      year: 2020 - 2024  
+    - title: BSc in Agricultural and Life Sciences
+      institution: The University of Tokyo, Faculty of Agriculture
+      year: 2020 - 2024
       description:
         - Completed undergraduate research on plant structure analysis.
         - Acquired fundamental skills in programming, remote sensing, and data analysis.
@@ -48,7 +48,6 @@
       description:
         - Description 1.
         - Description 2.
-
 
 - title: Open Source Projects
   type: time_table
