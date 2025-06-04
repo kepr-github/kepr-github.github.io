@@ -51,6 +51,6 @@ x_username: Keishu_te
 #   url: https://www.alberteinstein.com/
 custom_social:
   qiita:
-    logo: https://upload.wikimedia.org/wikipedia/commons/4/49/Qiita_Logo.svg
+    logo: /assets/img/qiita-icon.png
     title: Qiita
     url: https://qiita.com/kepr

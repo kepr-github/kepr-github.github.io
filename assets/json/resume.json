@@ -18,16 +18,7 @@
         "url": "https://x.com/Keishu_te"
       }
     ],
-    "languages": [
-      {
-        "language": "Japanese",
-        "fluency": "Native speaker"
-      },
-      {
-        "language": "English",
-        "fluency": "Fluent"
-      }
-    ]
+    "languages": "Japanese"
   },
   "work": [
     {
@@ -44,7 +35,7 @@
       ]
     },
     {
-      "name": "California Institute of Technology",
+      "name": "Technology",
       "position": "Web Development Intern",
       "url": "https://example.com",
       "startDate": "1933-01-01",
