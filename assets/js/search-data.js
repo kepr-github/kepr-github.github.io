@@ -48,13 +48,29 @@ ninja.data = [{
             window.location.href = "/blog/2025/makeportofolio/";
           
         },
+      },{id: "post-世界一優しい逆誤差伝播法の数式理解-python-qiita",
+        
+          title: '世界一優しい逆誤差伝播法の数式理解 #Python - Qiita <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "0. はじめに今まで何度か勉強してきたディープラーニングの仕組み。ただ、細かい数式理解に関してはおろそかにしていて、数学的に理解仕切れていない状態でした。自分と同じような境遇の方向けに、基礎にし…",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://qiita.com/kepr/items/216619761346ba91805c", "_blank");
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-ポートフォリオサイトを開設しました",
-          title: 'ポートフォリオサイトを開設しました',
+            },},{id: "news-ポートフォリオサイトを開設",
+          title: 'ポートフォリオサイトを開設',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-愛媛大学にて開催されました2024生態工学会年次大会において-ポスター発表を行いました",
+          title: '愛媛大学にて開催されました2024生態工学会年次大会において、ポスター発表を行いました',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -106,7 +122,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6B%65%69%73%68%75.%61%72%75%67%61.%70%72@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
@@ -121,6 +137,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://twitter.com/Keishu_te", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("", "_blank");
         },
       },{
       id: 'light-theme',
