@@ -5,6 +5,7 @@ date: 2025-06-04 6:00:00
 description: 自身の研究・活動を紹介するためのWebサイトを作成しました
 tags: website portfolio githubpages jekyll
 categories: sample-posts
+published: false
 ---
 
 このたび、自分の研究や活動実績をまとめた[ポートフォリオサイト](https://kepr-github.github.io)を公開しました！

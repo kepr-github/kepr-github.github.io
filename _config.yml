@@ -15,10 +15,10 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+lang: jp # the language of your site (for example: en, fr, cn, ru, etc.)
 # icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 use_custom_favicon: true
-favicon_path: /assets/img/icon.jpg
+favicon_path: assets/img/icon.jpg
 
 url: https://kepr-github.github.io # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -126,14 +126,16 @@ disqus_shortname: al-folio # put your disqus shortname
 external_sources:
   # - name: medium.com
   #   rss_url: https://medium.com/@al-folio/feed
+  - name: Qiita
+    rss_url: https://qiita.com/kepr/feed
   # - name: Google Blog
   #   posts:
   #     - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
   #       published_date: 2024-05-14
-  - name: Qiita
-    posts:
-      - url: https://qiita.com/kepr/items/216619761346ba91805c
-        published_date: 2024-05-14
+  # - name: Qiita
+  #   posts:
+  #     - url: https://qiita.com/kepr/items/216619761346ba91805c
+  #       published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
