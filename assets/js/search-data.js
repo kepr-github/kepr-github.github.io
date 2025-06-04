@@ -152,11 +152,11 @@ ninja.data = [{
           window.open("https://twitter.com/Keishu_te", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-qiita',
+        title: 'Qiita',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://qiita.com/kepr", "_blank");
         },
       },{
       id: 'light-theme',
