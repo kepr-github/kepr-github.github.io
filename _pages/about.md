@@ -29,4 +29,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I’m a graduate student passionate about AI, 3D data processing, and solving real-world problems through technology. My recent work involves developing algorithms for analyzing 3D point cloud data, especially in the context of plant phenotyping and infrastructure management. I also have experience with web development, machine learning, and contributing to collaborative R&D projects.
+I am a graduate student with an interest in 3D point cloud processing and artificial intelligence.
+Currently, I am conducting research on analyzing 3D point cloud data of plants to extract phenotypic traits.
+I am also participating in an internship where I develop algorithms for 3D point cloud analysis in the context of infrastructure management.
+Through these experiences, I have become increasingly interested in applying 3D data processing and AI technologies to solve real-world problems in areas such as agriculture and infrastructure.
+
+私は、３次元点群処理やAIに関心を持つ大学院生です。 現在、植物の3D点群データを解析し、フェノタイプ特性を抽出する研究に取り組んでいます。 また、インフラ管理の文脈で3D点群解析アルゴリズムの開発を行うインターンシップにも参加しています。 このように、3次元点群処理やAIの技術を農業やインフラ管理などの実社会の課題解決に応用することへ興味を持っています。

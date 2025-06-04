@@ -7,7 +7,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: you@example.com # your email address
+email: keishu.aruga.pr@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: kepr-github
@@ -49,3 +49,8 @@ x_username: Keishu_te
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
+custom_social:
+  qiita:
+    logo: https://commons.wikimedia.org/wiki/File:Qiita_Logo.svg
+    title: Qiita
+    url: https://qiita.com/kepr
