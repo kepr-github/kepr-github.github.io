@@ -37,26 +37,37 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-ポートフォリオサイトを公開しました",
+        },{id: "post-世界一優しい逆誤差伝播法の数式理解",
         
-          title: "ポートフォリオサイトを公開しました",
+          title: '世界一優しい逆誤差伝播法の数式理解 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "自身の研究・活動を紹介するためのWebサイトを作成しました",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/makeportofolio/";
-          
-        },
-      },{id: "post-世界一優しい逆誤差伝播法の数式理解-python-qiita",
-        
-          title: '世界一優しい逆誤差伝播法の数式理解 #Python - Qiita <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "0. はじめに今まで何度か勉強してきたディープラーニングの仕組み。ただ、細かい数式理解に関してはおろそかにしていて、数学的に理解仕切れていない状態でした。自分と同じような境遇の方向けに、基礎にし…",
+        description: "",
         section: "Posts",
         handler: () => {
           
             window.open("https://qiita.com/kepr/items/216619761346ba91805c", "_blank");
+          
+        },
+      },{id: "post-chatgptで文体改造-ラフすぎ文章をエレガントに戻せるのか実験してみた",
+        
+          title: 'ChatGPTで文体改造！？ラフすぎ文章をエレガントに戻せるのか実験してみた <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://qiita.com/kepr/items/6187e3781cbe5658f53e", "_blank");
+          
+        },
+      },{id: "post-dockerで起動したelasticsearchのsnapshotをs3に保存する方法",
+        
+          title: 'dockerで起動したelasticsearchのsnapshotをs3に保存する方法 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://qiita.com/kepr/items/c7a5433ab73217bf0f90", "_blank");
           
         },
       },{id: "books-the-godfather",
@@ -69,10 +80,12 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-愛媛大学にて開催されました2024生態工学会年次大会において-ポスター発表を行いました",
-          title: '愛媛大学にて開催されました2024生態工学会年次大会において、ポスター発表を行いました',
+            },},{id: "news-生態工学会発表",
+          title: '生態工学会発表',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
