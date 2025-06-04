@@ -51,5 +51,5 @@ x_username: Keishu_te
 #   url: https://www.alberteinstein.com/
 qiita:
   url: https://qiita.com/kepr
-  icon: /assets/img/qiita-icon.png
+  logo: /assets/img/qiita-icon.png
   title: Qiita
