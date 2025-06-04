@@ -18,11 +18,7 @@ Jekyllベースのテンプレート [al-folio](https://github.com/alshedivat/al
 - Markdown
 - HTML/CSS (al-folio テーマ)
 
-
-
-
 ---
-
 
 これから少しずつ内容を充実させていきますので、ぜひときどき覗いていただけると嬉しいです！
 
