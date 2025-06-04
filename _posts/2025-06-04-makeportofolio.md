@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ポートフォリオサイトを公開しました
-date: 2025-06-04 21:00:00
+date: 2025-06-04 6:00:00
 description: 自身の研究・活動を紹介するためのWebサイトを作成しました
 tags: website portfolio githubpages jekyll
 categories: sample-posts
