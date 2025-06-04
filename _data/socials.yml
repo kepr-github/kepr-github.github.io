@@ -49,8 +49,7 @@ x_username: Keishu_te
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
-custom_social:
-  qiita:
-    logo: /assets/img/qiita-icon.png
-    title: Qiita
-    url: https://qiita.com/kepr
+qiita:
+  url: https://qiita.com/kepr
+  icon: /assets/img/qiita-icon.png
+  title: Qiita
