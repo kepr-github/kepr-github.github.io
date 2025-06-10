@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Keishu Aruga",
-    "label": "PointCloud Research Intern / Graduate Student",
+    "label": "PointCloud Research / Graduate Student",
     "image": "",
     "email": "keishu.aruga.pr@gmail.com",
     "url": "https://kepr-github.github.io",
@@ -22,26 +22,17 @@
   },
   "work": [
     {
-      "name": "AI Startup (Confidential)",
-      "position": "R&D Intern (3D Point Cloud & AI)",
-      "url": "https://example.com",
+      "name": "Imvision Labs",
+      "position": "Data Scientist Intern (3D Point Cloud & AI)",
+      "url": "https://imvisionlabs.com/",
       "startDate": "2024-02-01",
       "endDate": "Present",
-      "summary": "Engaged in research and development of 3D point cloud and AI-based solutions.",
+      "summary": "Conduct research and development on AI-driven 3D point cloud solutions for infrastructure analysis.",
       "highlights": [
-        "Developed algorithms for 3D point cloud classification and analysis.",
-        "Participated in project planning and technical evaluation.",
-        "Automated vegetation clearance analysis near power lines using LiDAR data."
+        "Designed, developed, and evaluated deep learning models tailored for 3D point cloud processing.",
+        "Created and deployed algorithms for detecting overhead power lines from LiDAR and point cloud data.",
+        "Classified bridges and roadways within point cloud datasets and extracted relevant structural parameters."
       ]
-    },
-    {
-      "name": "Technology",
-      "position": "Web Development Intern",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1933-12-31",
-      "summary": "Web development internship (placeholder example, consider updating with real data).",
-      "highlights": ["Worked on front-end development tasks.", "Improved usability and responsiveness of internal web tools."]
     }
   ],
   "education": [
@@ -73,13 +64,13 @@
       "name": "3D Data Processing",
       "level": "Advanced",
       "icon": "fa-solid fa-cube",
-      "keywords": ["PointCloud Analysis", "Open3D", "CloudCompare", "MATLAB"]
+      "keywords": ["MATLAB", "Open3D","Open3D-ML", "CloudCompare", "Python"]
     },
     {
       "name": "Deep Learning",
       "level": "Intermediate",
       "icon": "fa-solid fa-brain",
-      "keywords": ["PointCloud Classification", "Image Classification", "Semantic Segmentation"]
+      "keywords": ["PointCloud Semantic Segmentation", "Image Classification"]
     }
   ],
   "interests": [
