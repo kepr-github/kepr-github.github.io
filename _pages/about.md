@@ -29,9 +29,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a graduate student with an interest in 3D point cloud processing and artificial intelligence.
-Currently, I am conducting research on analyzing 3D point cloud data of plants to extract phenotypic traits.
-I am also participating in an internship where I develop algorithms for 3D point cloud analysis in the context of infrastructure management.
-Through these experiences, I have become increasingly interested in applying 3D data processing and AI technologies to solve real-world problems in areas such as agriculture and infrastructure.
+I am currently enrolled in the master’s program at the Graduate School of Agricultural and Life Sciences, The University of Tokyo, where I focus on developing techniques to reconstruct three-dimensional plant structures from limited image data. Concurrently, I am interning at Imvision Labs, where I have been involved in researching, implementing, and developing anomaly‑detection algorithms that combine AI with 3D point‑cloud processing to inspect infrastructure such as power lines and bridges, and documenting the results in comprehensive reports. Through these experiences, I aim to serve as a bridge between societal domains like agriculture and infrastructure and the fields of 3D point‑cloud processing and AI, aspiring to become an engineer who contributes to solving real‑world challenges through practical implementation.
 
-私は、３次元点群処理やAIに関心を持つ大学院生です。 現在、植物の3D点群データを解析し、フェノタイプ特性を抽出する研究に取り組んでいます。 また、インフラ管理の文脈で3D点群解析アルゴリズムの開発を行うインターンシップにも参加しています。 このように、3次元点群処理やAIの技術を農業やインフラ管理などの実社会の課題解決に応用することへ興味を持っています。
+
+東京大学大学院 農学生命科学研究科 修士課程に在籍し、限られた画像データから植物の3次元構造を再構築する技術の研究に取り組んでいます。同時に、ImvisionLabsでのインターンでは、電線や橋梁などのインフラ点群データに対して、AIと3次元点群処理を組み合わせたアルゴリズムの調査・実装・開発に携わり、その成果を報告書として体系的にまとめる経験も積んでいます。こうした経験を通して、農学やインフラといった社会分野と、3次元点群処理やAIといったコンピュータサイエンスをつなぐ橋渡しとして、社会課題の解決に実装レベルで貢献できるエンジニアを目指しています。
