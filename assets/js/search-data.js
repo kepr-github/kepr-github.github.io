@@ -48,9 +48,9 @@ ninja.data = [{
             window.open("https://qiita.com/kepr/items/9e7524d79c638b99442b", "_blank");
           
         },
-      },{id: "post-世界一優しい逆誤差伝播法の数式理解",
+      },{id: "post-逆誤差伝播法の数式理解-基礎",
         
-          title: '世界一優しい逆誤差伝播法の数式理解 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: '逆誤差伝播法の数式理解(基礎) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
@@ -59,9 +59,9 @@ ninja.data = [{
             window.open("https://qiita.com/kepr/items/216619761346ba91805c", "_blank");
           
         },
-      },{id: "post-chatgptで文体改造-ラフすぎ文章をエレガントに戻せるのか実験してみた",
+      },{id: "post-ラフすぎ文章をエレガントに戻そう",
         
-          title: 'ChatGPTで文体改造！？ラフすぎ文章をエレガントに戻せるのか実験してみた <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+          title: 'ラフすぎ文章をエレガントに戻そう <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
         section: "Posts",
@@ -86,61 +86,41 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-ポートフォリオサイトを開設",
-          title: 'ポートフォリオサイトを開設',
+            },},{id: "news-ポートフォリオサイトを開設しました",
+          title: 'ポートフォリオサイトを開設しました',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-生態工学会発表",
-          title: '生態工学会発表',
+            },},{id: "news-生態工学会で発表を行いました",
+          title: '生態工学会で発表を行いました',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "news-ビジネスプラン立案プログラムで最優秀賞を受賞しました",
+          title: 'ビジネスプラン立案プログラムで最優秀賞を受賞しました',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-植物の3dモデル生成",
+          title: '植物の3Dモデル生成',
+          description: "修士研究",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-電線分類アプリケーション",
+          title: '電線分類アプリケーション',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-スマートフォンによる花卉の3次元点群生成技術の特性評価",
+          title: 'スマートフォンによる花卉の3次元点群生成技術の特性評価',
+          description: "卒業研究",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-aiを用いた摘粒の自動化",
+          title: 'AIを用いた摘粒の自動化',
+          description: "ビジネスコンテストの中で行いました",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
             },},{
         id: 'social-email',
         title: 'email',
