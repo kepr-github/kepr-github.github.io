@@ -64,7 +64,7 @@
       "name": "3D Data Processing",
       "level": "Advanced",
       "icon": "fa-solid fa-cube",
-      "keywords": ["MATLAB", "Open3D","Open3D-ML", "CloudCompare", "Python"]
+      "keywords": ["MATLAB", "Open3D", "Open3D-ML", "CloudCompare", "Python"]
     },
     {
       "name": "Deep Learning",
