@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: 植物の3Dモデル生成
+description: 修士研究
 img: assets/img/12.jpg
 importance: 1
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ポートフォリオサイトを開設
-date: 2015-11-07 16:11:00-0400
+title: ポートフォリオサイトを開設しました
+date: 2023-11-07 16:11:00-0400
 inline: false
 related_posts: false
 ---

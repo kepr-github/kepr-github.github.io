@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: スマートフォンによる花卉の3次元点群生成技術の特性評価
+description: 卒業研究
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3

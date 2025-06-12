@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: AIを用いた摘粒の自動化
+description: ビジネスコンテストの中で行いました
 img:
 importance: 3
 category: fun

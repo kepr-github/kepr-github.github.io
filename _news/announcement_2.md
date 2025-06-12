@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 生態工学会発表
+title: 生態工学会で発表を行いました
 date: 2024-07-04 16:11:00-0400
 inline: false
 related_posts: false
