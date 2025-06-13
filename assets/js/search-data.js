@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "will be updated",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-matlabを用いた群間差の検出-anova",
+        },{id: "post-ガウス混合モデル-gmm-と-emアルゴリズムの可視化-matlab実装",
+        
+          title: 'ガウス混合モデル(GMM) と EMアルゴリズムの可視化(MATLAB実装) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://qiita.com/kepr/items/41e6eb7206524a72379c", "_blank");
+          
+        },
+      },{id: "post-matlabを用いた群間差の検出-anova",
         
           title: 'MATLABを用いた群間差の検出(ANOVA) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -70,17 +81,6 @@ ninja.data = [{
             window.open("https://qiita.com/kepr/items/6187e3781cbe5658f53e", "_blank");
           
         },
-      },{id: "post-dockerで起動したelasticsearchのsnapshotをs3に保存する方法",
-        
-          title: 'dockerで起動したelasticsearchのsnapshotをs3に保存する方法 <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://qiita.com/kepr/items/c7a5433ab73217bf0f90", "_blank");
-          
-        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
@@ -101,26 +101,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "projects-植物の3dモデル生成",
-          title: '植物の3Dモデル生成',
-          description: "修士研究",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-電線分類アプリケーション",
-          title: '電線分類アプリケーション',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-スマートフォンによる花卉の3次元点群生成技術の特性評価",
-          title: 'スマートフォンによる花卉の3次元点群生成技術の特性評価',
-          description: "卒業研究",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-aiを用いた摘粒の自動化",
-          title: 'AIを用いた摘粒の自動化',
-          description: "ビジネスコンテストの中で行いました",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
